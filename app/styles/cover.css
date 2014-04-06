@@ -24,6 +24,10 @@ a:hover {
  * Base structure
  */
 
+* {
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 html,
 body {
     height: 100%;
